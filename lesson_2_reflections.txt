@@ -5,4 +5,8 @@ history.
 
 2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 Ans: Staging area is an intermediate between working directory and repository which contain the changes to be commited together in a place and it gives 
-flexibility to the work. 
+flexibility to the work.
+
+3.How can you use the staging area to make sure you have one commit per logical change?
+
+Ans: By comparing it with working directory and repository. we can do this by using commands git diff and git diff --staged respectively. 
