@@ -10,3 +10,7 @@ flexibility to the work.
 3.How can you use the staging area to make sure you have one commit per logical change?
 
 Ans: By comparing it with working directory and repository. we can do this by using commands git diff and git diff --staged respectively. 
+
+4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Ans: when we want to experiment with the code but not yet decided to add those features to master commit.It helps to reduce overheads.
