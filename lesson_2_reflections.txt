@@ -1,0 +1,8 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+
+Ans: An Empty Repository without any commits are initialized or created in the corresponding directory.To create a .git(hidden file) which will hold our commit 
+history.
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: Staging area is an intermediate between working directory and repository which contain the changes to be commited together in a place and it gives 
+flexibility to the work. 
