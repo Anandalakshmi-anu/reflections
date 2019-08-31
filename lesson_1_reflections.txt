@@ -1,0 +1,41 @@
+1.How did viewing a diff between two versions of a file help you see the bug that was 
+introduced?
+
+Ans: By viewing diff between two versions of a file it was easy to note the diffences 
+between them and the changes we made from the old one to new.
+Making it easier for us to notice the changes we made to the old one , diff between two 
+versions help us to easily notice the bugs since we only need to check those statements 
+where we made changes.
+
+2.How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Ans: By having easy access to entire history of a file, we will be able to compare and contrast between the multiple versions which help us in finding bugs 
+faster making us more efficient.On the long run when the programs tend to become large and to have numerous versions,it becomes hard for us to remember the 
+changes we did in each version.It is better to have version control systems to take care of such tedious jobs.
+
+3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, 
+like Google Docs does?
+
+Ans:->When we manually commit there is possibility of human error of commiting often or commiting rarely.While in case of automatic systems the versions 
+are saved in equal time intervals.
+	->In automtic case there may be times where commits are done without a proper change (like a logical one) being made but that will not happen in case 
+of manual commits in general.
+
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Ans: When we consider version control systems that supports coding,like git,it is reasonable that,it allows saving multiple files,since most programing 
+languages involve codes that connect different files.While in case of systems like Google Docs,generally files are not related with each other.
+
+5.How can you use the commands git log and git diff to view the history of files?
+
+Ans: Type git log in bash to view the recent commits with information and commit IDs.Type git diff commitID1 commitID2 to view the changes made from one version 
+to another.
+
+6.How might using version control make you more confident to make changes that could break something?
+
+Ans: By using version control I can back track,i.e, go back to the old versions and easily find bugs which caused a broke down.Having this advantage of undo, 
+I feel confident to make changes.
+
+7.Now that you have your workspace set up, what do you want to try using Git for?
+
+Ans: I wanna use git for saving different versions of files while working on a project. 
