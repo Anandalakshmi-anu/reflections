@@ -14,3 +14,7 @@ Ans: By comparing it with working directory and repository. we can do this by us
 4.What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Ans: when we want to experiment with the code but not yet decided to add those features to master commit.It helps to reduce overheads.
+
+5.How do the diagrams help you visualize the branch structure?
+
+Ans: The digrams splits when a branch occurs and help visualize properly and avoids making mistakes.
