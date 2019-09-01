@@ -18,3 +18,8 @@ Ans: when we want to experiment with the code but not yet decided to add those f
 5.How do the diagrams help you visualize the branch structure?
 
 Ans: The digrams splits when a branch occurs and help visualize properly and avoids making mistakes.
+
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Ans: one branch is merged into the other(current checkedout branch).All the changes made in both branches come together and exist as one.Because even not we can 
+access those commits made by both the branch through a single label.
