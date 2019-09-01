@@ -6,3 +6,10 @@ Ans: When multiple people work on the same repository and there is a need to sha
 
 Ans: In cases where many people contribute to a same remote repository, there may be situations when I wanna update my local repository only after completing the 
 work I'm doing. If pulling changes happens automatically, it would mess up a lot of things.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Ans: Branches: Made inside a repository to divert the development path and maintain versions of it.
+	 Clones: Used to clone a repositories within local device or between local device and github.
+	 Forks: Also used to clone repositories but within github.
+
