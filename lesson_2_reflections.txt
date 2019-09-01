@@ -23,3 +23,8 @@ Ans: The digrams splits when a branch occurs and help visualize properly and avo
 
 Ans: one branch is merged into the other(current checkedout branch).All the changes made in both branches come together and exist as one.Because even not we can 
 access those commits made by both the branch through a single label.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans: Automatic merging saves lot of time for us from doing a lot of comparisions, which doing maually is tough.But a point comes where certain merges can only be 
+done manually to resolve the merging conflicts related to logical changes made by both branches are not same. 
