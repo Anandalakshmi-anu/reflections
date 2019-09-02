@@ -20,3 +20,9 @@ Ans: By having such a copy it is easier for us to run git diff and git status co
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Ans: By sending suggetions through e-mail or other options.It would be hard to maintain all versions and compare them.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Ans: When I work on changes that might create bugs, if not properly coded or when i want to collabrate with others, takes their opinions and reviews, before 
+making the changes updated to the master I use branches.Making changes directly in master reduce the workflow complexcities but using branches saves us from
+buggy commits being added to master and allows us to get collaborators reviews.
