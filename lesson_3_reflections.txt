@@ -13,3 +13,6 @@ Ans: Branches: Made inside a repository to divert the development path and maint
 	 Clones: Used to clone a repositories within local device or between local device and github.
 	 Forks: Also used to clone repositories but within github.
 
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans: By having such a copy it is easier for us to run git diff and git status commands to find the changes we made locally since we last updated remote repository.
