@@ -16,3 +16,7 @@ Ans: Branches: Made inside a repository to divert the development path and maint
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Ans: By having such a copy it is easier for us to run git diff and git status commands to find the changes we made locally since we last updated remote repository.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ans: By sending suggetions through e-mail or other options.It would be hard to maintain all versions and compare them.
